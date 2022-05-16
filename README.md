@@ -1,6 +1,6 @@
 # flutter_basics
 
-A Flutter app showcasing the basics.
+A Flutter app to manage the number of people in a place, showcasing the basics.
 
 ## Getting Started
 
